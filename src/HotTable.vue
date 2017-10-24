@@ -22,7 +22,3 @@
     beforeDestroy: function() { return hotDestroy(this); },
   };
 </script>
-
-<style>
-  @import "~handsontable/dist/handsontable.full.css";
-</style>
